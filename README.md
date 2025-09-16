@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on dev team members.
 - ✨ How to reach me :
          telegram : @s3cr3t1119
-- 😄 Pronouns: English, Ukrainian
+- 😄 Pronouns: English
 <!--
 **s3cr3t1119/s3cr3t1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
