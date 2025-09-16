@@ -7,8 +7,7 @@
 - 🌱 I’m currently learning deep learning and NLP.
 - 💞️ I’m looking to collaborate on dev team members.
 - ✨ How to reach me :
-         telegram : @volodymyrUlchak
-         WhatsApp : +380 93 497 06 94
+         telegram : @s3cr3t1119
 - 😄 Pronouns: English, Ukrainian
 <!--
 **s3cr3t1119/s3cr3t1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
