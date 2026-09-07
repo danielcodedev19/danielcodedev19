@@ -1,14 +1,11 @@
 ## Hi there 👋
-- 👋 I’m Daniel
 - 👀 I’m interested in web development and machine learning.
    My main full-stact tech is Node, PHP, .NET, React.js, Next.js, Typescript, Django, Flask ...
    My skills as python expert is ML,DL NLP...
    My website design skill is figma, bootstrap 5, react mui, metronic ...
 - 🌱 I’m currently learning deep learning and NLP.
 - 💞️ I’m looking to collaborate on dev team members.
-- ✨ How to reach me :
-         telegram : @danieldev19
-- 😄 Pronouns: Hiking, Soccer Ball
+- 😄 Hobby: Hiking, Soccer Ball
 <!--
 **s3cr3t1119/s3cr3t1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
